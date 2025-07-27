@@ -1,1 +1,1 @@
-message: Hello from GitHub Config Repo!
+message: ${{message content}}
