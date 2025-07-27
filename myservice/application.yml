@@ -1,1 +1,1 @@
-message: ${{message content}}
+message: ${{MESSAGE_CONTENT}}
