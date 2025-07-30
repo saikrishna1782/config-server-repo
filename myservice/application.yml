@@ -1,1 +1,5 @@
 message: ${MESSAGE_CONTENT}
+author: ${AUTHOR_NAME}
+version: ${SERVICE_VERSION}
+description: ${SERVICE_DESCRIPTION}
+organization: ${ORG_NAME}
