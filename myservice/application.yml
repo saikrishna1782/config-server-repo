@@ -1,1 +1,11 @@
 #message: ${MESSAGE_CONTENT}
+#author: ${AUTHOR_NAME}
+#serviceversion: ${SERVICE_VERSION}
+#servicedescription: ${SERVICE_DESCRIPTION}
+#orgname: ${ORG_NAME}
+
+message: this is from config server repo main barnch
+author: sai
+serviceversion: 1.0
+servicedescription: main branch
+orgname: tfs
